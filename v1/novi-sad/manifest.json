@@ -1,0 +1,10 @@
+{
+  "manifestVersion": 1,
+  "city": "novi-sad",
+  "datasetVersion": "2026-06-26.1",
+  "file": "zones/2026-06-26.1.json",
+  "sha256": "59a5dfb82aaf3a96b4d95136a23c2b62aba975831a44773b737b1dfed06c8b39",
+  "bytes": 215287,
+  "minAppVersion": "0.1.0",
+  "signature": "m0mM4V3tCdLGtJj/tjxixK/4d/uuL36bDw8FwpiuLvCRPEEqPbJrirtYUvIVPtfjB4ZRTwbyzSHnpfG7g5u6Cg=="
+}
