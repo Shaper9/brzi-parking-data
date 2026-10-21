@@ -1,4 +1,4 @@
-﻿# Brzi Parking zone data
+# Brzi Parking zone data
 
 Signed parking-zone data for the Brzi Parking app, served with GitHub Pages.
 
