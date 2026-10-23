@@ -1,0 +1,10 @@
+{
+  "manifestVersion": 1,
+  "city": "beograd",
+  "datasetVersion": "2026-10-23.1",
+  "file": "zones/2026-10-23.1.json",
+  "sha256": "4eff41e53af8e7dd72e42b7839d262236ac58702110d9b52612c9c004a602152",
+  "bytes": 94213,
+  "minAppVersion": "0.1.0",
+  "signature": "zuZRfLI6lAKlMJ133kLaXbdt5yoek5dMAYBk4fx0u/vTmtm9PQ7UDOLB/hx5Y1/W92iBsJcOZfxXUxsETImcAA=="
+}
