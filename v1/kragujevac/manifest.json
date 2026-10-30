@@ -1,0 +1,10 @@
+{
+  "manifestVersion": 1,
+  "city": "kragujevac",
+  "datasetVersion": "2024-11-12.1",
+  "file": "zones/2024-11-12.1.json",
+  "sha256": "29fa477dd7587226a8320547187e6b53148147e69b81bc55b754184814dd5788",
+  "bytes": 136127,
+  "minAppVersion": "0.1.0",
+  "signature": "7Pj+DjZrAgwVu8SDezteKEGywiPEjSkkiuy5Ai8qkuhRklFnzsJ7acjJOkyfFwuOsKqGUgBOVFMQk4aBG6LtBg=="
+}
